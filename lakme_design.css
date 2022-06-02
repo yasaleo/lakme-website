@@ -1,0 +1,422 @@
+body{
+    margin: 0;
+    overflow-x: hidden;
+    margin-top: -11px;
+}
+.header-1{
+    background: #991f53;
+    width: 100%;
+    height: 45px;
+    text-align: center;
+}
+.text-ad{
+    color: #fff;
+    font-size: 12px;
+    padding-top: 15px;
+}
+
+.part-2{
+    background: #000;
+    width: 100%;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: sticky;
+    top: 0;
+}
+.logo{
+    width: 25%;
+    padding-top: 25px;
+}
+.menu-options{
+    width: 50%;
+}
+.login-options{
+    width: 25%;
+}
+.logo-width{
+    margin-left: 51px;
+}
+.options{
+    color: antiquewhite;
+    background: #000;
+    font-family: DIN Neuzeit Grotesk,sans-serif;
+    font-size: smaller;
+    cursor: pointer;
+}
+
+.fa-input{
+    display: flex;
+    color: white;
+    margin-left: 180px;
+    
+}
+.fa-input i{
+    font-size: x-large;
+    margin-right: 20px;
+    cursor: pointer;
+}
+.option-bar{
+    padding-left: 2.5px;
+}
+.part-3{
+    background: #fff;
+    width: 100%;
+    height: 8330px;
+    
+}
+.lipstick-img{
+    width: 100%;
+    margin-top: 17px;
+    margin-left: 21px;
+}
+.lipstick-img img{
+    width: 97%;
+}
+.buy3get1{
+    width: 100%;
+    margin-top: 17px;
+    margin-left: 21px;
+}
+.buy3get1 img{
+    width: 97%;
+}
+.saleoffer{
+    width: 100%;
+    margin-top: 17px;
+    margin-left: 21px;
+}
+.saleoffer img{
+    width: 97%;
+}
+.lakmefacemask{
+    width: 100%;
+    margin-top: 17px;
+    margin-left: 21px;
+}
+.lakmefacemask img{
+    width: 97%;
+}
+.cusionmatte{
+    width: 100%;
+    margin-top: 17px;
+    margin-left: 21px;
+}
+.cusionmatte img{
+    width: 97%;
+}
+.spotlight{
+    width: 100%;
+    margin-top: 17px;
+    margin-left: 21px;
+}
+.spotlight img{
+  width: 97%;
+}
+.paintpot{
+    width: 100%;
+    margin-top: 17px;
+    margin-left: 21px;
+}
+.paintpot img{
+  width: 97%;
+}
+.revitalise{
+    width: 100%;
+    margin-top: 17px;
+    margin-left: 21px;
+}
+.revitalise img{
+  width: 97%;
+}
+
+.kareena-pic{
+    width: 100%;
+    margin-top: 17px;
+    margin-left: 21px;
+}
+.kareena-pic img{
+    width: 97%;
+}
+.meltmini{
+    width: 100%;
+    margin-top: 17px;
+    margin-left: 21px;
+}
+.meltmini img{
+    width: 97%;
+}
+.hydra-lakme{
+    width: 100%;
+    margin-top: 17px;
+    margin-left: 21px;
+}
+.hydra-lakme img{
+    width: 97%;
+}
+
+.part-4{
+    background: #e2e2e2;
+    width: 100%;
+    height: 795px;
+    /* display: flex; */
+    justify-content: space-evenly ;
+    padding-top: 100px;
+}
+.selling-fast{
+    padding: 10px 39% 0;
+    /* background: #991f53; */
+    height: 200px;
+
+}
+.bottom-products{
+    background: #e2e2e2;
+    width: 100%;
+    height: 550px;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+.bottom-img1{
+    width: 20%;
+    height: 550px;
+    background: white;
+    border-radius: 15px;
+}
+.pic-head{
+    color: #991f53;
+    text-align: center;
+    line-height: 13px;
+    font-family: Futura,sans-serif;
+    font-size: 14px;
+    font-weight: 800;
+}
+.pic-desc-text{
+    min-height: 54px;
+    font-family: system-ui;
+    font-size: 14px;
+    margin-left: 12px;
+  }
+  .rupees1{
+      text-align: center;
+      margin-left: -21px;
+      justify-content: space-between;
+  }
+  .star-rating img{
+    width: 155px;
+    margin-left: 51px;
+    display: block;
+  }
+ 
+  .button{
+    background: #000;
+    margin-left: 62px;
+    margin-top: 16px;
+    padding: 11px;
+    padding-right: 25px;
+    padding-left: 25px;
+  }
+  .part_cn{
+      display: flex;
+      align-items: center;
+  }
+
+  .button-press{
+      color: #e2e2e2;
+      text-decoration: none;
+  }
+
+  .bottom-img2{
+    width: 20%;
+    height: 550px;
+    background: white;
+    border-radius: 15px;
+}
+.bottom-img3{
+    width: 20%;
+    height: 550px;
+    background: white;
+    border-radius: 15px;
+}
+.bottom-img4{
+    width: 20%;
+    height: 550px;
+    background: white;
+    border-radius: 15px;
+}
+
+.extra-button{
+    width: 100%;
+    height: 100px;
+    background: #e2e2e2;
+}
+
+.padd{
+    padding: 50px 44% 0;
+    margin: auto;
+}
+.padd button{
+    padding: 15px 44px;
+    margin-left: -60px;
+    background: #000;
+    font-family: monospace;
+    color: white;
+    cursor: pointer;
+}
+
+.part-5{
+    background: #e2e2e2;
+    width: 100%;
+    border-top: 1px solid;
+    padding: 10px;
+}
+.location-area{
+    width: 50%;
+    border-right: 1px solid #000;
+}
+.contact-area{
+    width: 50%;
+    padding-left: 63px;
+}
+.store-locator{
+    margin-left: 145px;
+    margin-top: 76px;
+    font-family: sans-serif;
+    font-size: smaller;
+    display: flex;
+    cursor: pointer;
+    padding-left: 147px;
+    font-size: 10px;
+}
+.get-in-touch{
+    margin-top: 0;
+    font-family: sans-serif;
+    font-size: 11px;
+    ALIGN-ITEMS: center;
+    margin-left: 196px;
+}
+
+.map-logo i{
+    font-size: 17px;
+    margin-top: 7px;
+    margin-left: 32px;
+    border: 2px solid;
+    border-radius: 50%;
+    padding: 11px;
+    color: #991f53;
+    background: white;
+}
+.contact-logo{
+    font-size: 27px;
+    cursor: pointer;
+}
+.contact-logo i{
+    margin-right: 10px;
+    border: 2px solid #991f53;
+    padding: 10px;
+    border-radius: 50%;
+    background: white;
+    font-size: 19px;
+}
+.part-6{
+    background: #000;
+    width: 100%;
+    height: 500px;
+    border-top: 1px solid;
+}
+.footer1{
+    width: 40%;
+    float: left;
+}
+.footer2{
+    width: 30%;
+    float: left;
+}
+.footer3{
+    width: 30%;
+    float: left;
+}
+
+.finalpart-1{
+    display: flex;
+    align-items: center;
+    padding-top: 25px;
+    justify-content: space-between;
+}
+
+.follow-updates{
+    color: #fff;
+    font-size: 12px;
+    font-family: DIN Neuzeit Grotesk,sans-serif;
+}
+.final-logo{
+    margin-left: 86px;
+}
+.contact-us{
+    color: #fff;
+    font-family: DIN Neuzeit Grotesk,sans-serif;
+    margin-left: 84px;
+    font-size: 18px;
+    margin-top: 38px;
+    font-weight: bold;
+}
+.contact-options{
+    color: #fff;
+    font-family: DIN Neuzeit Grotesk,sans-serif;
+    margin-left: 84px;
+    font-size: 14px;
+}
+.about-us{
+    color: #fff;
+    font-family: DIN Neuzeit Grotesk,sans-serif;
+    margin-left: 84px;
+    font-size: 15px;
+    margin-top: 38px;
+    font-weight: bold;
+}
+.about-def{
+    color: #fff;
+    font-family: DIN Neuzeit Grotesk,sans-serif;
+    margin-left: 84px;
+    font-size: 12px;
+}
+.side-lasttext{
+    color: #fff;
+    font-family: DIN Neuzeit Grotesk,sans-serif;
+    margin-left: 84px;
+    font-size: 17px;
+    margin-top: 39px;
+    font-weight: 900;
+}
+.help{
+    color: #fff;
+    font-family: DIN Neuzeit Grotesk,sans-serif;
+    margin-left: 149px;
+    font-size: 18px;
+    margin-top: 77px;
+    font-weight: bold;
+}
+.help-options{
+    color: #fff;
+    font-family: DIN Neuzeit Grotesk,sans-serif;
+    margin-left: 84px;
+    font-size: 14px;
+    cursor: pointer;
+    margin-left: 147px;
+}
+.need-help{
+    color: #fff;
+    font-family: DIN Neuzeit Grotesk,sans-serif;
+    margin-left: 149px;
+    font-size: 18px;
+    margin-top: 77px;
+    font-weight: bold;
+}
+.final-support{
+    color: #fff;
+    font-family: DIN Neuzeit Grotesk,sans-serif;
+    margin-left: 146px;
+    font-size: 14px;
+}
